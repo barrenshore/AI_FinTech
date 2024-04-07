@@ -31,6 +31,7 @@ Progress and Homework
 Grades
 ===
 Program Assignment (30%), Midterm (30%), Final Presentation (30%), Participation (10%)
+
 Final score: A+
 
 Final Presentation - Deep Reinforcement Learning for Portfolio Management
