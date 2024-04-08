@@ -40,3 +40,5 @@ Paper name: Deep Reinforcement Learning for Portfolio Management
 Gang Huang, Xiaohua Zhou and Qingyang Song (2020)
 
 [Presentation Video](https://www.youtube.com/watch?v=RI1bIYd0f-M)
+
+![image](<https://github.com/barrenshore/AI_FinTech/blob/main/%E6%9C%9F%E6%9C%AB/Presentation.pdf>)
