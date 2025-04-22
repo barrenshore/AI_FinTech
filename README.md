@@ -1,7 +1,7 @@
 About this course
 ===
 Artificial Intelligence: Theory and Practice 
-人工智慧與金融科技/人工智慧理論與實作
+人工智慧與金融科技/人工智慧理論與實作, 黃思皓
 
 2023 Fall
 
